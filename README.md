@@ -15,5 +15,5 @@
 * `npm run dev` - сборка для разработки
 
 ## Дополнительные материалы:
-Документация: https://react.dev/reference/react/useCallback
+Документация: https://react.dev/reference/react/useCallback  
 Видео - 
