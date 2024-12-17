@@ -16,4 +16,4 @@
 
 ## Дополнительные материалы:
 Документация: https://react.dev/reference/react/useCallback  
-Видео - 
+Видео - https://youtube.com/shorts/-3XBRN2hMgU?feature=share
